@@ -1,0 +1,29 @@
+body {
+	color: #ffffff;
+	font-family: 'Arial', sans-serif;
+}
+header h1{
+	background-color: #ffe3fc;
+	text-decoration: none;
+}
+header{
+	justify-content: center;
+}
+nav ul{
+	text-decoration: none;
+	background-color: #ffe3fc;
+	padding: 40px;
+}
+ul li a{
+	text-decoration: none;
+	text-align: center;
+	color: #8a5384;
+	display: flex;
+}
+nav hover{
+	color: #b869b0;
+}
+footer{
+	background-color:#ffe3fc;
+	justify-content: center;
+}
